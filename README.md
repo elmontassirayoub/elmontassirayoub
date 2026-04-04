@@ -9,7 +9,7 @@ I’m a full stack developer with a strong focus on building scalable web applic
 I combine technical skills + business mindset, working on both development and digital marketing projects.
 
 💼 5+ years experience in web development
-💼 2+ years experience in Digital Marketing
+💼 2+ years experience in Digital Marketing|
 ⚡ Specialized in React / Node.js / .NET
 🎯 Focused on delivering real results (performance, SEO, conversions)
 🧠 Always learning & improving
