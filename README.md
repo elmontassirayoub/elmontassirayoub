@@ -2,7 +2,7 @@ Hi, I'm Ayoub EL Montassir 👋
 
 💻 Full Stack Developer | 🚀 Founder @ Wedotech Agency
 📍 Rabat, Morocco
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🧑‍💻 About Me
 
 I’m a full stack developer with a strong focus on building scalable web applications and real-world digital products.
