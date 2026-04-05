@@ -56,4 +56,4 @@ ChatGPT • Cursor • GitHub Copilot • Claude • Gemini
 🌐 Portfolio: https://el-montassir-ayoub-portfolio.vercel.app/  
 📩 Email: elmontassirayoub1@gmail.com  
 💬 WhatsApp: +212 6 97 74 19 37  
-💼 LinkedIn: (add your link)
+💼 LinkedIn: https://www.linkedin.com/in/ayoub-el-montassir-bb5b7a222/
